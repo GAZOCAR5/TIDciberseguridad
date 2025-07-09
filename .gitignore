@@ -1,1 +1,9 @@
+# Archivos sensibles
+*.key
 *.pem
+
+# Carpeta con claves privadas
+pythonkey/key
+scripts/aes.key
+scripts/hmac.key
+user_fingerprint.txt
